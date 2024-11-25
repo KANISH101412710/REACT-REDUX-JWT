@@ -1,7 +1,9 @@
-# React Redux JWT App by Jeel Patel 101410368
+# KANISH HIRPARA
 
 
 
+## Technology
+- React, Redux, JWT
 
 ## Features
 - User login and logout
@@ -25,7 +27,3 @@
 - Profile: Displays decoded user details from JWT.
 
 
-
-
-## Technology
-- React, Redux, JWT
